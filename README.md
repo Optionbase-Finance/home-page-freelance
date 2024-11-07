@@ -1,9 +1,9 @@
 # home page for freelance work with Joaquin
 
-## Refs = animation and current site.
+1. refs = animation and current site.
 
-## Tokens = all SVG crypto token logos.
+2. tokens = all SVG crypto token logos.
 
-## optionbase-logo = svg of our text logo.
+3. optionbase-logo = svg of our text logo.
 
-## Fonts = sf pro custom.
+4. Fonts = sf pro custom.
